@@ -1,0 +1,174 @@
+{
+  "uid" : "737c85fce28f95e4",
+  "name" : "test_division_02",
+  "fullName" : "mytestcase.test_division.test_division03#test_division_02",
+  "historyId" : "b11a81a7d0e3aea99d2f3c667092e397",
+  "time" : {
+    "start" : 1566229383671,
+    "stop" : 1566229383672,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "autouse_session",
+    "time" : {
+      "start" : 1566229383426,
+      "stop" : 1566229383427,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "number",
+    "time" : {
+      "start" : 1566229383669,
+      "stop" : 1566229383670,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "auto_module",
+    "time" : {
+      "start" : 1566229383658,
+      "stop" : 1566229383668,
+      "duration" : 10
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "auto_package",
+    "time" : {
+      "start" : 1566229383427,
+      "stop" : 1566229383428,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "autouse_session::0",
+    "time" : {
+      "start" : 1566229383718,
+      "stop" : 1566229383719,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "number::teardown",
+    "time" : {
+      "start" : 1566229383674,
+      "stop" : 1566229383675,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "auto_module::0",
+    "time" : {
+      "start" : 1566229383690,
+      "stop" : 1566229383691,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "auto_package::0",
+    "time" : {
+      "start" : 1566229383713,
+      "stop" : 1566229383714,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "mytestcase.test_division"
+  }, {
+    "name" : "suite",
+    "value" : "test_division03"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "YouTh"
+  }, {
+    "name" : "thread",
+    "value" : "5544-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "mytestcase.test_division.test_division03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "737c85fce28f95e4.json",
+  "parameterValues" : [ ]
+}

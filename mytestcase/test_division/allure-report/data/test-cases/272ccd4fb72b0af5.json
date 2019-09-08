@@ -1,0 +1,164 @@
+{
+  "uid" : "272ccd4fb72b0af5",
+  "name" : "test_division_04[第三个]",
+  "fullName" : "mytestcase.test_division.test_division01#test_division_04[第三个]",
+  "historyId" : "a30b29dd04081e93ed338af619bfde67",
+  "time" : {
+    "start" : 1566229383595,
+    "stop" : 1566229383595,
+    "duration" : 0
+  },
+  "description" : "fixture传入request参数来获取用例数据的测试用例",
+  "descriptionHtml" : "<p>fixture传入request参数来获取用例数据的测试用例</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "autouse_session",
+    "time" : {
+      "start" : 1566229383426,
+      "stop" : 1566229383427,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "mydivision01",
+    "time" : {
+      "start" : 1566229383592,
+      "stop" : 1566229383593,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "number",
+    "time" : {
+      "start" : 1566229383593,
+      "stop" : 1566229383594,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "auto_package",
+    "time" : {
+      "start" : 1566229383427,
+      "stop" : 1566229383428,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "autouse_session::0",
+    "time" : {
+      "start" : 1566229383718,
+      "stop" : 1566229383719,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "number::teardown",
+    "time" : {
+      "start" : 1566229383597,
+      "stop" : 1566229383598,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "auto_package::0",
+    "time" : {
+      "start" : 1566229383713,
+      "stop" : 1566229383714,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "mytestcase.test_division"
+  }, {
+    "name" : "suite",
+    "value" : "test_division01"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "YouTh"
+  }, {
+    "name" : "thread",
+    "value" : "5544-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "mytestcase.test_division.test_division01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "mydivision01",
+    "value" : "(3, 3)"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "272ccd4fb72b0af5.json",
+  "parameterValues" : [ "(3, 3)" ]
+}
